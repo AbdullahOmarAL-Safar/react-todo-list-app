@@ -1,6 +1,4 @@
-markdown
-Copy
-Edit
+
 
 # 📝 React To-Do List Manager
 
