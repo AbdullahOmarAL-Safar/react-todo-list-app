@@ -6,6 +6,7 @@ function ToDoList() {
     'Eat Breakfast',
     'Take a Shower',
     'Walk the Dogs',
+    'Learn Something',
   ]);
   const [newTask, setNewTask] = useState('');
 
@@ -76,5 +77,6 @@ function ToDoList() {
     </div>
   );
 }
+
 
 export default ToDoList;
